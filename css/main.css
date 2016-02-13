@@ -9,14 +9,14 @@ body {
 h1, h2, h3, h4, h5, h6	{
 	font-family: 'Source Code Pro';
 	font-weight: normal;
-	color: #915BC7;
+	color: #B15BC7;
 	color: rgba(0, 0, 0, 1.0);
 	text-transform: uppercase;
 	font-size: 21px;
 }
 
 header img {
-	border: 5px double #000000;
+	border: 5px double #fff;
 }
 
 h1 {
